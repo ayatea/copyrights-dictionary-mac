@@ -10,15 +10,15 @@
     </dict>
     <dict>
       <key>phrase</key>
-      <string>柱書</string>
-      <key>shortcut</key>
-      <string>はしらがき</string>
-    </dict>
-    <dict>
-      <key>phrase</key>
       <string>徴収率</string>
       <key>shortcut</key>
       <string>ちょうしゅうりつ</string>
+    </dict>
+    <dict>
+      <key>phrase</key>
+      <string>柱書</string>
+      <key>shortcut</key>
+      <string>はしらがき</string>
     </dict>
   </array>
 </plist>
