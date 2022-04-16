@@ -4,6 +4,12 @@
   <array>
     <dict>
       <key>phrase</key>
+      <string>公取委</string>
+      <key>shortcut</key>
+      <string>こうとりい</string>
+    </dict>
+    <dict>
+      <key>phrase</key>
       <string>支分権</string>
       <key>shortcut</key>
       <string>しぶんけん</string>
