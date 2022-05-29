@@ -16,6 +16,12 @@
     </dict>
     <dict>
       <key>phrase</key>
+      <string>上映権</string>
+      <key>shortcut</key>
+      <string>じょうえいけん</string>
+    </dict>
+    <dict>
+      <key>phrase</key>
       <string>徴収率</string>
       <key>shortcut</key>
       <string>ちょうしゅうりつ</string>
