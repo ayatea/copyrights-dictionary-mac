@@ -4,6 +4,12 @@
   <array>
     <dict>
       <key>phrase</key>
+      <string>原詞</string>
+      <key>shortcut</key>
+      <string>げんし</string>
+    </dict>
+    <dict>
+      <key>phrase</key>
       <string>公取委</string>
       <key>shortcut</key>
       <string>こうとりい</string>
